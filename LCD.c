@@ -2,7 +2,7 @@
  * LCD.c
  *
  * Created: 10/7/2024 7:40:28 PM
- *  Author: GHADA_ABODA
+ *  Author: ghada_moemn
  */ 
 #include "LCD.h"
 #define F_CPU 8000000UL
