@@ -2,7 +2,7 @@
  * LCD_config.h
  *
  * Created: 10/7/2024 8:09:21 PM
- *  Author: User
+ *  Author: ghada_moemn
  */ 
 
 
